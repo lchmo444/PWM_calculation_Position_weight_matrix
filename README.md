@@ -13,7 +13,7 @@ This program calculates the sum selected item of colum.
 
 Geecee tool method is an alternative to using to Prior residue probability for residue.
 
-Usage of PSSM_score(dna) with Information content
+Usage of PWM_score(dna) with Information content
 ==============
 ```
 pwm_tool.exe dnaWithbindings_2.fasta
