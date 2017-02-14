@@ -1,4 +1,4 @@
-# PWM_score(dna) with Information content
+# PWM_score(dna)
 PWM_score(dna) is a simplified calculation tool.
 
 A PWM_score has two matrix structure for position frequency matrix(PFM) and position 
